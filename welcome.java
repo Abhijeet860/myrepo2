@@ -1,1 +1,1 @@
-welcome to java
+public static void main
